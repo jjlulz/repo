@@ -1,0 +1,30 @@
+name: Update repo
+on:
+  push:
+    paths:
+      - 'debs/**'
+      - 'repo-header.txt'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate Packages and Release
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y dpkg-dev apt-utils bzip2
+          dpkg-scanpackages -m debs /dev/null > Packages
+          gzip -k -f Packages
+          bzip2 -k -f Packages
+          cp repo-header.txt Release
+          apt-ftparchive release . >> Release
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Packages Packages.gz Packages.bz2 Release
+          git commit -m "Update repo" || echo "nothing to commit"
+          git push

@@ -1,0 +1,8 @@
+Origin: jjlulz
+Label: jjlulz
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: jjlulz's iOS 12 tweak remakes
