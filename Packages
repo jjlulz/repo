@@ -50,3 +50,21 @@ Description: iOS 16 style Now Playing player for the iOS 12 lock screen
 Author: jjlulz
 Name: 16Player remake [iOS 12]
 
+Package: com.jjlulz.sixteenplayer
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.example.sixteenplayer
+Replaces: com.example.sixteenplayer
+Filename: debs/com.jjlulz.sixteenplayer_2.2.0_iphoneos-arm.deb
+Size: 19996
+MD5sum: cdc5e0bf0e1034e53e59cd9b7e1251e2
+SHA1: f62a58312780467c5d2c51e9397f28ee474827ff
+SHA256: 9c6b6217cc785a015b22a26e8098a2c6d704c8a6850ca75410c7db6855df398c
+Section: Tweaks
+Description: iOS 16 style Now Playing player for the iOS 12 lock screen
+Author: jjlulz
+Name: 16Player remake [iOS 12]
+
