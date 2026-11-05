@@ -1,0 +1,29 @@
+Origin: jjlulz
+Label: jjlulz
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: jjlulz's iOS 12 tweak remakes
+Date: Thu, 05 Nov 2026 21:24:09 +0000
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3               14 Packages.bz2
+ 74bae7a558bd6e8034121bf59d98108b               29 Packages.gz
+ 00833cd26d68a4318cdfdc5144841821              196 Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Packages
+ 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2               14 Packages.bz2
+ 2ee6bbc87b41264aea185edd5b587a98f64e98ed               29 Packages.gz
+ a9a517ff01336060509ae34aec9c03a3ed68cefa              196 Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Packages
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058               14 Packages.bz2
+ dcedefe93d1336b1859bcd49b022e34623756bd3972b1f28c4b9e2e5a1021114               29 Packages.gz
+ cfb79c84198741705fa829af0ecec47d1290d13f89b5f35f3da26252e072d9ca              196 Release
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Packages
+ 6de201dfed1d45412509c65deb34690dc2d09c6aafccfe491fd2f440f92842b9c755b61dc7bcdd4cc0c9f18cf46c2b3a1241e99c4c2a33fff5555e7b2f0b6348               14 Packages.bz2
+ 68aced8eeba2f7d08c29b85b3ea6997f6a89d6eb781a0871504b9244abccf1d28425fde89d641e55a980e01ca266a110475ebaa403f14a694142117438d1a1f7               29 Packages.gz
+ 31b05b730c48652b6de38a0b8cee0f81b4f00b2e40a72e83cb64972c69d85534d5e5f3bff516a479d73705888d3de60ce425cdec2b521a6652c3b1b4cf4f2477              196 Release
