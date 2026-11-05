@@ -48,3 +48,21 @@ Description: iOS 16 style battery percentage inside the status bar battery icon 
 Author: jjlulz
 Name: Ampere remake [iOS 12]
 
+Package: com.jjlulz.sixteenplayer
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 188
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.example.sixteenplayer
+Replaces: com.example.sixteenplayer
+Filename: debs/com.jjlulz.sixteenplayer_2.1.0_iphoneos-arm.deb
+Size: 18222
+MD5sum: 4456946753a89281b5e7f6891179641c
+SHA1: f1dc5e4f11c89adf7ac5da4b1e3430186b298dbb
+SHA256: f9aa5994fc50d541ec179f2d29b68f4514d5ce30e22c8000ed582343362385c3
+Section: Tweaks
+Description: iOS 16 style Now Playing player for the iOS 12 lock screen
+Author: jjlulz
+Name: 16Player remake [iOS 12]
+
