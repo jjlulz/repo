@@ -16,22 +16,6 @@ Description: iOS 26 Liquid Glass inspired look for Control Center, dock, folders
 Author: you
 Name: Liquid Gl(ass) recreation [iOS 12]
 
-Package: com.example.sixteenplayer
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: you
-Installed-Size: 152
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: debs/com.example.sixteenplayer_1.0.0_iphoneos-arm.deb
-Size: 6212
-MD5sum: ab209c27121cc74d4b4de3a4e667346a
-SHA1: 9332c4ead5e44c2752c43ff390ae455d7f126284
-SHA256: d6844a9ea76ba5da8a5d3d5631279a1889a91c749aa8ce6794f7bb071c11595a
-Section: Tweaks
-Description: iOS 16 inspired Now Playing look for the lock screen and Control Center on iOS 12
-Author: you
-Name: 16Player remake [iOS 12]
-
 Package: com.jjlulz.ampere
 Version: 1.0.0
 Architecture: iphoneos-arm
