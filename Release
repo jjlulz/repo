@@ -6,24 +6,24 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: jjlulz's iOS 12 tweak remakes
-Date: Fri, 06 Nov 2026 00:28:25 +0000
+Date: Fri, 06 Nov 2026 00:38:51 +0000
 MD5Sum:
  43285840ab796bb2288438b90e49d72a             2962 Packages
  992344b2a88a0d9d1aef87cce07e287f             1176 Packages.bz2
- ea903814b4d388601406266a6b77fe9f             1008 Packages.gz
- 0459115ae34d7f6b8b071a1732ec77a0              196 Release
+ 01c8c261d0f3aea1431786e3e2f71d20             1008 Packages.gz
+ da77ff6efabf44c93cec24ac7efa685d              196 Release
 SHA1:
  12978ded3096546891d48151676d28260ea71a58             2962 Packages
  189a73a441d5536cad64ba7cc38e0e61e4b512e5             1176 Packages.bz2
- 6bb3ed62bf6dd025fe67204a2c06ca26d2df5b25             1008 Packages.gz
- fe9b81e801e31309b3dccf7418b8b9aa448fc274              196 Release
+ 7530f11ecde64cf91c8e6800451ab6e203c5333c             1008 Packages.gz
+ 478352b4de6395ada52c73e3b7fef121ab927c3a              196 Release
 SHA256:
  7f0d741f86263ad73ec2a21fc2cf73df87c998ee0daed75501d0772d1de01fac             2962 Packages
  f09f1fb7f6c90764a086bfe9dc3b87ba7ff2ff61b4cbbeac862001e79b72cc11             1176 Packages.bz2
- d6efef5e0b6c6433b4d00defa591e3b9e2dd3e12b41e3b4c125e407a7157d671             1008 Packages.gz
- 2a849beb6ed97e61698c039db874a3895ce6553abfb7386c0467da273e8ff19a              196 Release
+ 80b630d1fc6274802bedc25754f552d1372970023018c3943352bcfcc06cf2f1             1008 Packages.gz
+ 181b5f7cc4ddf8b6ba2023861341d14927d33208d7ade4b3514e05002b26b7b5              196 Release
 SHA512:
  36a297fe11f0be09b65451c4d55c24012d113c107c941a8ffeeb1d4951387709a3d4dfeb4059e229af4f992b317c0403afd9aa2e91b91fc03e4cb37107226eda             2962 Packages
  2b868dca59548e0089a6a14715d9fc32838cb6e261e5fe642b0ed5960b9df503cac1ae5e48327d0e45288f2da564d1feed9773c8a00e7e647d5ab035b7150e25             1176 Packages.bz2
- d8a530de5f198157ccf9320469e62ee8aff9d33209381e7416b32fec84634ef697a699c6b93a1834fd0d959eb76c568367b28353fbc9207ad2aeeacd48e4f404             1008 Packages.gz
- eae8d3242323f356f6e751647385b6b06303541122abcfa515ae1a6c2ce0c7032461f3c9a1c738d8c2a24d5bd68fe791dac6c29ebf55548385ad676e125cad97              196 Release
+ 132e00251e0403a57f4d6eef59f05c729aacfba141b54813b6a0ba16b998e1c41d07c3a3284c67983b6aa7968de863eea33ee87bf43c637bdb99efdeafb91fad             1008 Packages.gz
+ bed4290d7233d24634a16f0f4ba7df1f4c0e525c773d7e9c35c0c65d3efb61f84e7a8d982bc6425d40e318477b1b3eb1e2f419a8156e24b38aff2082911d2220              196 Release
