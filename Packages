@@ -32,6 +32,24 @@ Description: iOS 16 style battery percentage inside the status bar battery icon 
 Author: jjlulz
 Name: Ampere remake [iOS 12]
 
+Package: com.jjlulz.liquidglass
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.example.liquidglass, com.example.cc26
+Replaces: com.example.liquidglass, com.example.cc26
+Filename: debs/com.jjlulz.liquidglass_3.0.0_iphoneos-arm.deb
+Size: 11794
+MD5sum: ea4787715a1fa317f6b4781b3dd1269e
+SHA1: 69217a36a8173e8fa3787c1a0be11a108da41116
+SHA256: 189439add4f6039933df92f6bd23eceb2149aa7d70a36bd5a47d420542c7ec37
+Section: Tweaks
+Description: iOS 26 Liquid Glass inspired look for Control Center, dock, folders, banners, passcode keypad, search bar and lock screen clock on iOS 12
+Author: jjlulz
+Name: Liquid Gl(ass) remake [iOS 12]
+
 Package: com.jjlulz.sixteenplayer
 Version: 2.1.0
 Architecture: iphoneos-arm
