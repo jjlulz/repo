@@ -6,24 +6,24 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: jjlulz's iOS 12 tweak remakes
-Date: Sun, 08 Nov 2026 20:15:31 +0000
+Date: Sun, 08 Nov 2026 20:39:01 +0000
 MD5Sum:
- e128343d24531c9b8b328966d977d02b             5542 Packages
- 8eeaf185b6296d85204e1fc79bb54e6c             1787 Packages.bz2
- aec5480e397c47032852b9e5526343f0             1610 Packages.gz
- 1506a5cd90b15c6e4f71d7a07ba4ad4c              196 Release
+ e38fec21f8809dea443778b6a56d4910             6093 Packages
+ 75ffff24dc104071a4960bfe8ea1d61b             1943 Packages.bz2
+ 1288ea96c659b5c1ce307cb7a2b573c1             1776 Packages.gz
+ c8cadb1f23a7b84f0046d7ae92f50023              196 Release
 SHA1:
- 29c394a9676b083eee36404b84c5413312c601c6             5542 Packages
- da2f7f12a744c326d5bc48c2fd4215849a5a4c62             1787 Packages.bz2
- 33491e1db40413883bc9023a935b086f20984da0             1610 Packages.gz
- c4dcb542b5ffe13c1f35d21645becc27c86a6a98              196 Release
+ 23ab014fe446fb8279991afe901267767de84249             6093 Packages
+ 5f09dbdfc3eefa3b03bbdd638db3074d32c0e2a8             1943 Packages.bz2
+ b473c118410799d08116a6819547133e6d02cd78             1776 Packages.gz
+ 6803d5d0c8ddc5377d55838201ea909533258f75              196 Release
 SHA256:
- 460d7e06c20f62a7aa959dd7388dfd8735b35c89fcfd9b1c14e051aaaf1751ef             5542 Packages
- 7f4a81934fccd1d2a843aa1cfde7a380459349f8c8d426c99cf913a99c9dc71e             1787 Packages.bz2
- 1b7e93100c6ae682bfcb21932c37fc56556c18ae02011963e1011977fe2c6ff0             1610 Packages.gz
- 6665e41dbc671afe709ed10900a7a59bf51b62319f523ab368b490d2d6b3512b              196 Release
+ b65c12e817ba9d446bfa12be38ce86fe43b47d819b13e74e2479bb4d4676ab0d             6093 Packages
+ 5df67f8eed27dcebb20c4e0bb184d8e173d6f5c0d0e6029bb7ac2b7cbf5227fe             1943 Packages.bz2
+ f07cf19de55d7573a083be949ed9b6055d9379705096a05eb5191e1b1e2f4433             1776 Packages.gz
+ 85b962a11bc741b142077378eb95fdf3704148ea3d0de743bb92527aa0d47cf9              196 Release
 SHA512:
- dcb9374f0799713e8a2e9626957e1b333d48888e4d64be1e9dec8d7eafae0744ef8967b7c57e9cf7e742de34bda0c65e1386a59e8b2ef1db7718710d93da1f89             5542 Packages
- fe17fe77b248e8fde625ab50efacd8a83fc989a5e18284e9b83ff305a4150a24d2d5eeaaf10e5132979d0ab2bf968370e79b70ee79302f9d0b94e6d248a9afa9             1787 Packages.bz2
- 190a8d7d7f913caffcc375d8244bde6fb961cdbd3f892ef7950bb645671a1294b4e8725a83d5f5f697a763d2285df9b81ecfab5fdf492905d66d15bcbf989aa0             1610 Packages.gz
- b661023a39d87699cd36c6980d1ba4b0e1482eef82af9b9dd861ec1eb8eab3311724580f2727cbab49d7799ae74f1ad36d5f9d5eaf9e4970163a7888fb4a73cc              196 Release
+ 45effffe9814112bc17c5282bf90cc45b9797a443cdcaedf291736898df663991c45489e6df25d81c9ce3379ebab36f13758c7e63650ff5a31de6d0ccc7ebc95             6093 Packages
+ cda183c72ed5c7e7c3cac4f0eb313b822116a45fa4f7210701919e84c6ea59d4e1aa574ecabb7abae6c2d177cee0652b81cf51ef8dfc5a070e2253b317e4f4c4             1943 Packages.bz2
+ 6effb4e1bdb41ad926ade7fb1b059c276c30b9aba439b87e081a81a37c30171c9ff23a90ac5cc5f151d9527898d9511538cde209693c7f030917bd1b6e2bef61             1776 Packages.gz
+ 54f52157a89413221fe3910235c89fe9e7e5650db786b4939641a577e5f4c1e42fd198ddd110f252b8724eefa66a8ffcc53a87ef6fb73179903b9266df0c5b0e              196 Release

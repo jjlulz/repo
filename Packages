@@ -66,6 +66,22 @@ Description: Glass edge, wide capsule thumb and iOS 26 colors on on/off switches
 Author: jjlulz
 Name: Liquid Gl(ass) Switches [iOS 12]
 
+Package: com.jjlulz.signalbars
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/com.jjlulz.signalbars_1.0.0_iphoneos-arm.deb
+Size: 9746
+MD5sum: fe35cb92f8978470375d7d07da6be03d
+SHA1: 060ab5ab1498655cf328b2380d0616ede38255c3
+SHA256: 766e099ad5ecb54e6fcb34fb5a8494ed69345e7d0e0e5a4629474b027686ee39
+Section: Tweaks
+Description: Replaces the Wi-Fi status bar icon with iOS 26 style cellular signal bars (cosmetic only)
+Author: jjlulz
+Name: Signal Bars [iOS 12]
+
 Package: com.jjlulz.sixteenplayer
 Version: 2.1.0
 Architecture: iphoneos-arm
