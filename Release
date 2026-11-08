@@ -6,24 +6,24 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: jjlulz's iOS 12 tweak remakes
-Date: Sun, 08 Nov 2026 01:26:13 +0000
+Date: Sun, 08 Nov 2026 01:34:00 +0000
 MD5Sum:
  7f7a5f7374ca1a3f2519b32bbfcb8164             4382 Packages
  2eb7fc876b8b88381f8321c0817c4817             1455 Packages.bz2
- abaae7bf865bc87a82847422c5b45b11             1240 Packages.gz
- 707ca750551a0abd997ee67c3ff1c52b              196 Release
+ 8d8fd5f08010a35cf9718824b5a3878e             1240 Packages.gz
+ 23f0ce267f92d36d34a2b5c2355fef23              196 Release
 SHA1:
  609125d4ab207422063e80c40595f107bd7e309a             4382 Packages
  2f5bd2de9d9c638b4b8780d4d0249ff87e11db6c             1455 Packages.bz2
- 85d0fe6d4e5127ed64f26ae6001084689c1689ba             1240 Packages.gz
- 3bcfb709d892a4cbae5191f34a76e30c2f4b6d27              196 Release
+ b51d3bbebfb0d6b20a84b80fc03535ebf0d17268             1240 Packages.gz
+ 003bc5790cb11a3c95655fe50fdae406121db675              196 Release
 SHA256:
  7238b88e49692be51f8562a97d91836162f86c692a67510fc784a82871c27348             4382 Packages
  c684056e2eccf12015fb3a1e9780794a110b22aa0358795087b3c21ccf11c25c             1455 Packages.bz2
- 9930024819f352f1f9d6c33ac1fca850a2495a011e199bb7157c4a83cde733dd             1240 Packages.gz
- 9d3d832cbd054bb4bd4d33f7913b75162a79556f48d5a889fd939bfcb9c7dc7a              196 Release
+ 8f72c17cfa94d8fc9fbe79ed3b615281354bd625c1b4747858097bb9c6f4fe21             1240 Packages.gz
+ 3f97036b0230e8bc96af1e7a5b3e2a57b34a0ec2be225097733e55d8a56abc98              196 Release
 SHA512:
  b9d61289feeff15047305c68ed734c5e87037de4500499982b25e84df6414cdd1c593c0eefad2b85bcee567b1286ad01f42f6764c43d02e2899d7207adde47ea             4382 Packages
  6756a9cc3270f473a5aeac77c1263e03713b852976a9b79f93dd3a9f13ee8efd3a5dc5db4d55e1d1409bb7a68777088273a293b3c803fd214ce0dbba2cb2b7c4             1455 Packages.bz2
- 74435b903ec11b98aa063918d39e884fa41ec57f780ce53c2ab1276cb40ca46423e628ca3eec9a9ebe9c5ac033ff64f36d51142fb8a7a6af516296c876d2edb9             1240 Packages.gz
- 91a516a6b6a9ea67b9a64d10c40ea9032e0ddcd3af6acb29b8667c5506471a078e4ae58b8e5fd910b05f1b99d8c73a3912d2d5ad5f4f64732c8cb481acc08d15              196 Release
+ af1cd1da4efce0a2910493e6f36cd5f63f4b49c94ba6ae7807c3df5ebe42eb64ceb5bc417976f3f7eb50bb42173c929db79b2b5f86f4f17a947dc0236e98a34c             1240 Packages.gz
+ 959d776d4747e99608cfa3355bb6223a825dbd589e8dc81163ee99824e60f1cfc3846bc2fc29ab9843bc750e43bcd2c1d2e92423308610d761d4ee7e65141a8f              196 Release
