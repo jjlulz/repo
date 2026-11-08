@@ -22,6 +22,24 @@ Installed-Size: 156
 Depends: mobilesubstrate, firmware (>= 12.0)
 Conflicts: com.example.liquidglass, com.example.cc26
 Replaces: com.example.liquidglass, com.example.cc26
+Filename: debs/com.jjlulz.liquidglass_3.0.1_iphoneos-arm.deb
+Size: 11764
+MD5sum: 12b71e368123fd5a3ec732783d1d2583
+SHA1: b4a44efb453cc2205a895f9aa33084c211da68a3
+SHA256: 6baff0d8fd3472a98ea8c2e2f81d13e67e7e870669b156c021c662b5b3e58e24
+Section: Tweaks
+Description: iOS 26 Liquid Glass inspired look for Control Center, dock, folders, banners, passcode keypad, search bar and lock screen clock on iOS 12
+Author: jjlulz
+Name: Liquid Gl(ass) remake [iOS 12]
+
+Package: com.jjlulz.liquidglass
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.example.liquidglass, com.example.cc26
+Replaces: com.example.liquidglass, com.example.cc26
 Filename: debs/com.jjlulz.liquidglass_3.0.0_iphoneos-arm.deb
 Size: 11794
 MD5sum: ea4787715a1fa317f6b4781b3dd1269e
