@@ -6,24 +6,24 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: jjlulz's iOS 12 tweak remakes
-Date: Sun, 08 Nov 2026 20:10:16 +0000
+Date: Sun, 08 Nov 2026 20:15:31 +0000
 MD5Sum:
  e128343d24531c9b8b328966d977d02b             5542 Packages
  8eeaf185b6296d85204e1fc79bb54e6c             1787 Packages.bz2
- e7eb8c0519f9d529e078570bedd17035             1610 Packages.gz
- c69edd9cf383ecc56a8d200ce3003c8a              196 Release
+ aec5480e397c47032852b9e5526343f0             1610 Packages.gz
+ 1506a5cd90b15c6e4f71d7a07ba4ad4c              196 Release
 SHA1:
  29c394a9676b083eee36404b84c5413312c601c6             5542 Packages
  da2f7f12a744c326d5bc48c2fd4215849a5a4c62             1787 Packages.bz2
- 3f7578644fa7546978cc3b756e79d35a9505a296             1610 Packages.gz
- a737d1db387435cb7d7780ac7c22b82d91e14b3d              196 Release
+ 33491e1db40413883bc9023a935b086f20984da0             1610 Packages.gz
+ c4dcb542b5ffe13c1f35d21645becc27c86a6a98              196 Release
 SHA256:
  460d7e06c20f62a7aa959dd7388dfd8735b35c89fcfd9b1c14e051aaaf1751ef             5542 Packages
  7f4a81934fccd1d2a843aa1cfde7a380459349f8c8d426c99cf913a99c9dc71e             1787 Packages.bz2
- f7d6d96a5124bd3801e7cd0839d830fc58814c6977e52ac2fabd2890b01f7d88             1610 Packages.gz
- faec4ba1b6a49277dde245c0e502c61ffcc2a9e0f7798b3d0d6f0535a5ee244a              196 Release
+ 1b7e93100c6ae682bfcb21932c37fc56556c18ae02011963e1011977fe2c6ff0             1610 Packages.gz
+ 6665e41dbc671afe709ed10900a7a59bf51b62319f523ab368b490d2d6b3512b              196 Release
 SHA512:
  dcb9374f0799713e8a2e9626957e1b333d48888e4d64be1e9dec8d7eafae0744ef8967b7c57e9cf7e742de34bda0c65e1386a59e8b2ef1db7718710d93da1f89             5542 Packages
  fe17fe77b248e8fde625ab50efacd8a83fc989a5e18284e9b83ff305a4150a24d2d5eeaaf10e5132979d0ab2bf968370e79b70ee79302f9d0b94e6d248a9afa9             1787 Packages.bz2
- a81af29e5707cdfbb1c9bd22652da673bb69bcc88cf4e7a0c5c5a82ce3e531526e09fb6e88b0abbd7510859453da42e193cf480576d3a2da0cd8e3213daaf282             1610 Packages.gz
- f03c9724942d340f73df785c0de460006f16bc9e8e2f25b4d0a571b0cfb6a3056927e39b356ffc67651956ebd213c4fb5f5e059b10fbfdcc9ba08c575b3aa331              196 Release
+ 190a8d7d7f913caffcc375d8244bde6fb961cdbd3f892ef7950bb645671a1294b4e8725a83d5f5f697a763d2285df9b81ecfab5fdf492905d66d15bcbf989aa0             1610 Packages.gz
+ b661023a39d87699cd36c6980d1ba4b0e1482eef82af9b9dd861ec1eb8eab3311724580f2727cbab49d7799ae74f1ad36d5f9d5eaf9e4970163a7888fb4a73cc              196 Release
