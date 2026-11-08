@@ -50,6 +50,22 @@ Description: iOS 26 Liquid Glass inspired look for Control Center, dock, folders
 Author: jjlulz
 Name: Liquid Gl(ass) remake [iOS 12]
 
+Package: com.jjlulz.liquidglassswitches
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 12.0), com.jjlulz.liquidglass (>= 3.0.0)
+Filename: debs/com.jjlulz.liquidglassswitches_1.2.0_iphoneos-arm.deb
+Size: 10774
+MD5sum: 69d2522e8437ff06fcd9a008b2d72d03
+SHA1: 534d02bebcbaa4dc4600de22c86d457ec108f212
+SHA256: e0f25339d4ddb1b4300bb1b09f31309cf28388184c31fa4a49877e2fa415734d
+Section: Tweaks
+Description: Glass edge, wide capsule thumb and iOS 26 colors on on/off switches (needs Liquid Gl(ass) remake)
+Author: jjlulz
+Name: Liquid Gl(ass) Switches [iOS 12]
+
 Package: com.jjlulz.sixteenplayer
 Version: 2.1.0
 Architecture: iphoneos-arm
