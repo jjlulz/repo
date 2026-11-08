@@ -122,3 +122,19 @@ Description: iOS 16 style Now Playing player for the iOS 12 lock screen
 Author: jjlulz
 Name: 16Player remake [iOS 12]
 
+Package: com.jjlulz.switchdump
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/com.jjlulz.switchdump_1.0.0_iphoneos-arm.deb
+Size: 9082
+MD5sum: 148cc46149489defe1152d676dba9e78
+SHA1: 73c52c17a5865973003e079680d7cbd0d41f05b7
+SHA256: 8e3d0ce6c088dcb4e66d052c422cd7f2f9fb1ae256e17c025575a1314739034c
+Section: Tweaks
+Description: Debug tool: copies the inside structure of on/off switches to the clipboard
+Author: jjlulz
+Name: SwitchDump (debug)
+
