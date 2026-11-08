@@ -32,6 +32,24 @@ Description: iOS 26 Liquid Glass inspired look for Control Center, dock, folders
 Author: jjlulz
 Name: Liquid Gl(ass) remake [iOS 12]
 
+Package: com.jjlulz.liquidglass
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 156
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: com.example.liquidglass, com.example.cc26
+Replaces: com.example.liquidglass, com.example.cc26
+Filename: debs/com.jjlulz.liquidglass_3.0.1_iphoneos-arm.deb
+Size: 13216
+MD5sum: be39f51df17a88a3f813041a36520218
+SHA1: 3598e5370ba6c331ef8b1341bd1eeed6a97172b6
+SHA256: b6be39e75791ebb5902168f63a25336b0087ee26cccf97a01a31a3173d844e63
+Section: Tweaks
+Description: iOS 26 Liquid Glass inspired look for Control Center, dock, folders, banners, passcode keypad, search bar and lock screen clock on iOS 12
+Author: jjlulz
+Name: Liquid Gl(ass) remake [iOS 12]
+
 Package: com.jjlulz.sixteenplayer
 Version: 2.1.0
 Architecture: iphoneos-arm
