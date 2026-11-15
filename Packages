@@ -170,3 +170,35 @@ Description: Debug tool: copies the inside structure of on/off switches to the c
 Author: jjlulz
 Name: SwitchDump (debug)
 
+Package: com.jxyra1n.12island
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: jxyra1n
+Installed-Size: 60
+Depends: mobilesubstrate
+Filename: debs/com.jxyra1n.12island_0.1.0_iphoneos-arm.deb
+Size: 7526
+MD5sum: 2a1250a89f5dea0a0c4809b904b2e75f
+SHA1: 73c855743f609cce249b4b1be7fe506c58d4f8c5
+SHA256: 55f0ad3f7b2717b730243a4922872465e599531cd082a2509d615edd37f861ab
+Section: Tweaks
+Description: Dynamic Island style now playing pill for iOS 12
+Author: jxyra1n
+Name: 12Island
+
+Package: com.jxyra1n.12island
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: jxyra1n
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/com.jxyra1n.12island_0.2.0_iphoneos-arm.deb
+Size: 12106
+MD5sum: 954b2b564813eeb7bbf3d1e98ad201ec
+SHA1: 28bc17ceb521cca2446aa35d6dbcd5e0625d0dd6
+SHA256: a3f5ced58c6638fbfff2d18def6b66c9f5a33911688d33d40926bee09affdd05
+Section: Tweaks
+Description: Dynamic Island style now playing pill for iOS 12
+Author: jxyra1n
+Name: 12Island
+
