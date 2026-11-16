@@ -202,3 +202,19 @@ Description: Dynamic Island style now playing pill for iOS 12
 Author: jxyra1n
 Name: 12Island
 
+Package: com.jxyra1n.12island
+Version: 0.2.1
+Architecture: iphoneos-arm
+Maintainer: jxyra1n
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: debs/com.jxyra1n.12island_0.2.1_iphoneos-arm.deb
+Size: 12140
+MD5sum: 27f4f681e2186f1797d359f62920bcd1
+SHA1: 61d64aed2c22ddb40ad69badc6ef08a17773d3a4
+SHA256: 4b8cdef978344a3831ff425724f3b8f643ce06b3d9455247ca37ee1aad2f48d6
+Section: Tweaks
+Description: Dynamic Island for iOS 12. Thank me later.
+Author: jxyra1n
+Name: 12Island
+
