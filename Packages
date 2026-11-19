@@ -218,3 +218,19 @@ Description: Dynamic Island for iOS 12. Thank me later.
 Author: jxyra1n
 Name: 12Island
 
+Package: com.jxyra1n.12island
+Version: 0.5.0
+Architecture: iphoneos-arm
+Maintainer: jxyra1n
+Installed-Size: 92
+Depends: mobilesubstrate
+Filename: debs/com.jxyra1n.12island_0.5.0_iphoneos-arm.deb
+Size: 20252
+MD5sum: c4557d3350c976d37e5cb92b5d227a31
+SHA1: 612498e351cb920d71bdea5840b686961e09a9b8
+SHA256: b326e7a00cdbfc1684743cc2f8765f19fbf30df1b086ae3e4ef1686a947e7184
+Section: Tweaks
+Description: Dynamic Island for iOS 12. Thank me later.
+Author: jxyra1n
+Name: 12Island
+
