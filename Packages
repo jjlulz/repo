@@ -15,6 +15,22 @@ Author: jjlulz
 Name: Ampere remake [iOS 12]
 
 Package: com.jjlulz.liquidglass
+Version: 0.1.0
+Architecture: iphoneos-arm
+Maintainer: jjlulz
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/com.jxyra1n.liquidglass12_0.1.0_iphoneos-arm.deb
+Size: 30616
+MD5sum: 9085a902d072afe726b89377f7c08cf8
+SHA1: 3b9959a25b5124fab178859c5003f0ee9ca8396e
+SHA256: 6717fadcf3521da82bcd4849e60089d621711ef48fa82b4757621c51b1fad7b6
+Section: Tweaks
+Description: iOS 26 style Liquid Glass (Metal) for iOS 12: dock, folders, banners
+Author: jjlulz
+Name: LiquidGlass12
+
+Package: com.jjlulz.liquidglass
 Version: 3.0.0
 Architecture: iphoneos-arm
 Maintainer: jjlulz
